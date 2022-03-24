@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    margin: 1rem 0;
+}
+
+table {
+    color: #FFF;
+}
+
+th, td {
+    padding: .5rem;
+}
+
+table .fashion-header {
+    background-color: #BB86FC;
+}
+
+table .table-data {
+    background-color: #424250;
+}
+
+table .house-header {
+    background-color: #00C4B4;
+}
