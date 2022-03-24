@@ -15,7 +15,7 @@ th, td {
     padding: .5rem;
 }
 
-table .fashion-header {
+table .header-fashion {
     background-color: #BB86FC;
 }
 
@@ -23,6 +23,6 @@ table .table-data {
     background-color: #424250;
 }
 
-table .house-header {
+table .header-house {
     background-color: #00C4B4;
 }
